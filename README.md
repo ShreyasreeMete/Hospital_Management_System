@@ -79,7 +79,8 @@ https://www.kaggle.com/datasets/shalakagangurde/hospital-hmis-dataset-for-health
 
 ## 📸 Dashboard Preview
 
-![Hospital Dashboard](final.png)
+<img width="1331" height="775" alt="Screenshot 2026-07-17 105152" src="https://github.com/user-attachments/assets/ac815838-8925-4ee9-b777-8786f29511cb" />
+
 
 ---
 
