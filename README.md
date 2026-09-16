@@ -1,5 +1,7 @@
 # 🏥 Hospital Patient & Billing Management System
 
+<img width="1331" height="775" alt="Screenshot 2026-07-17 105152" src="https://github.com/user-attachments/assets/551ffd66-159b-43e3-94e6-d965f66fdb3e" />
+
 An interactive **Hospital Patient & Billing Management Dashboard** developed using **Microsoft Excel**. This project demonstrates how Excel can be used as a powerful business intelligence and reporting tool to manage hospital operations, billing information, patient records, and healthcare analytics through dynamic dashboards and visualizations.
 
 ---
